@@ -1,183 +1,187 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Vovô Amu",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "O vovô Amu é um velho carpinteiro, principalmente artesão.",
+        "url": "https://www.youtube.com/channel/UClaEdLrmti779-tyovta8zw"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Vovô Amu cria uma ponte em arco de madeira, sem pregos, artesão muito poderoso",
+          "url": "https://youtu.be/PYkgEf3eWqA"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Vovô Amu usou métodos antigos para fazer cadeiras de balanço sem pregos e cola",
+          "url": "https://www.youtube.com/watch?v=heVG8OlBhlE"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "As seis fechaduras Luban do vovô Amu são infinitamente interligadas, tão incrível",
+          "url": "https://www.youtube.com/watch?v=ppxB5js_Uw0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Vovô Amu fez um barco dragão de bambu e parecia com ele",
+          "url": "https://www.youtube.com/watch?v=OpsKSZVg7OQ"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Bule de raiz de bambu do vovô Amu, esta peça é ótima, muito delicada e bonita",
+          "url": "https://www.youtube.com/watch?v=sVvbi1Am_9Q"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Vovô Amu usa madeira como torno para fazer belos artesanatos",
+          "url": "https://www.youtube.com/watch?v=afiyNmWOZK8"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Vovô Amu fez um ancinho de bambu, que muitas pessoas nunca viram",
+          "url": "https://www.youtube.com/watch?v=d5HIFze-578"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "O vovô Amu construiu um pequeno jardim e um viveiro de peixes, que é muito bonito",
+          "url": "https://www.youtube.com/watch?v=yzwYWQ7aPwQ"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Jungle Survival",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Sobrevivência na selva ",
+        "url": "https://www.youtube.com/c/JungleSurvival/about"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Construa mansão subterrânea incrível e piscina de bambu com habilidades antigas",
+          "url": "https://www.youtube.com/watch?v=XcDGZi0v_WA"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Construa a piscina mais incrível da Villa Jungle com escorregas de água de bambu duplos",
+          "url": "https://www.youtube.com/watch?v=n0AWm_HqZxU"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Construindo a piscina subterrânea mais misteriosa do buraco profundo",
+          "url": "https://www.youtube.com/watch?v=s-c1dLdo3KU"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Construir a mais bela piscina de bambu em torno da casa Villa de luxo por habilidades antigas",
+          "url": "https://www.youtube.com/watch?v=hOQlRweXYAE"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Construa a casa secreta mais secreta do túnel subterrâneo na selva profunda",
+          "url": "https://www.youtube.com/watch?v=Cma8cogqtVo"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Liziqi ",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Videos sobre uma jovem artezam chineza",
+        "url": "https://www.youtube.com/channel/UCoC47do520os_4DBMEFGg4A"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "A vida do tomate",
+          "url": "https://www.youtube.com/watch?v=u_Jx2pB7OZg"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "The life of cucumbers",
+          "url": "https://www.youtube.com/watch?v=oi38cQMORQY"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "So …it goes like…the life of peas!",
+          "url": "https://www.youtube.com/watch?v=iOvJ9Tg_rp4"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Jovem artesã chinesa muito talentosa",
+          "url": "https://www.youtube.com/watch?v=3RI2PqN2qo4&list=PLYbHvbdXHY1CChXCriCbaMRfnJ41fTX9U&index=1"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Nik Rijavec",
       "cor": "orange",
+      "link_extra": {
+        "text": "Construção de cabana de madeira",
+        "url": "https://www.youtube.com/channel/UCMjAl_0yeKwUAQ2A3tQFcnA"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Building Off Grid Log Cabin - Ep 1 / Everything Starts With a Dream",
+          "url": "https://www.youtube.com/watch?v=YXk8bfcxoc0"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Building Off Grid Log Cabin - S 2 Ep 2 / Cutting The Door",
+          "url": "https://www.youtube.com/watch?v=KxfFdzjMU9Y"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Building Off Grid Log Cabin - Ep 3 / Expect the Unexpected",
+          "url": "https://www.youtube.com/watch?v=TqDei5dDHH8"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Building Off Grid Log Cabin - Ep 4 / Slow Progress is Better Than No Progress",
+          "url": "https://www.youtube.com/watch?v=qYft9kSOfz4"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Primitive Tool",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Ferramenta Primitiva",
+        "url": "https://www.youtube.com/c/PrimitiveTool"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Como construir a casa de bambu moderna mais bonita de dois andares",
+          "url": "https://www.youtube.com/watch?v=ulkZEKnu6Fk"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Como construir uma casa subterrânea privada no túnel do templo com piscina",
+          "url": "https://www.youtube.com/watch?v=WcVoD4XXFP0&t=4s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Construindo a piscina mais moderna da casa de barro",
+          "url": "https://www.youtube.com/watch?v=f1a58YL2_wY"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Construindo a mais moderna casa de barro",
+          "url": "https://www.youtube.com/watch?v=f2Z9D8eZhAE"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Como construir casa de barro, tanque de peixes e piscina",
+          "url": "https://www.youtube.com/watch?v=HLzRKpnuyQ4"
         }
-      ]
+      ] 
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Habilidade de Construção",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Habilidade de Construção",
+        "url": "https://www.youtube.com/channel/UCpNH_wHy-5JI4vNlWhu60Gg"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Usando madeira | Tecnologia primitiva, construção de habilidades",
+          "url": "https://www.youtube.com/watch?v=9vg9L3di4P0"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Construa casa de bambu perto da piscina natural na falésia | Habilidade de Construção",
+          "url": "https://www.youtube.com/watch?v=iHHGpsUqypQ"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Construir Resort House na piscina da floresta | Tecnologia primitiva, construção de habilidades",
+          "url": "https://www.youtube.com/watch?v=cRe3Y8RYbZI"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Construindo o mais moderno quarto king subterrâneo com piscina na Underground House",
+          "url": "https://www.youtube.com/watch?v=ZJJ-AgGy-8I"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Como cavar a água, lagoas de peixes gêmeos e fogão para cozinhar",
+          "url": "https://www.youtube.com/watch?v=1dOYExuvwMg"
         }
       ]
     }

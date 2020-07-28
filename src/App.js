@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"O vovô Amu é um velho carpinteiro, principalmente artesão. A maioria dos vídeos aqui são principalmente artesanato e comida. E o vovô Amu e seus filhos também estão trabalhando duro para gravar vídeos mais criativos para compartilhar com todos, para que todos os leitores Aprendi conhecimentos e aliviei o humor. Há muitas obras de artesanato do vovô Amu no vídeo, que podem ser apreciadas lentamente."}
       />
 
       <Carousel
